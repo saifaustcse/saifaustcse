@@ -68,14 +68,19 @@
 
 -   💬 Ask me about: javascript, ReactJs, Angular, Express, NodeJs, .NET(C#), Mongo, MSSQL, MySql ,clean-architecture, micro-services,
 -   👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
+-   📫 How to reach me: farhadmp@gmail.com
+-   ![](https://komarev.com/ghpvc/?username=saifaustcse)
+
 <!-- -   👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip) -->
 
 </br>
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
+ <a href="#" alt="Saiful Islam's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=saifaustcse&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" />
  </a>
+
 </p>
 
 <!-- <p align="center">
