@@ -64,27 +64,15 @@
   </span>
 </h1>
 
- <!-- -   📃 I blog here: https://moien.dev -->
-
 -   💬 Ask me about: javascript, ReactJs, Angular, Express, NodeJs, .NET(C#), Mongo, MSSQL, MySql ,clean-architecture, micro-services,
 -   👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
 -   📫 How to reach me: saifaustcse26@gmail.com
 -   ![](https://komarev.com/ghpvc/?username=saifaustcse)
-
-<!-- -   👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip) -->
-
-</br>
+    </br>
 
 <p align="center">
  <a href="#" alt="Saiful Islam's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=saifaustcse&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" /> -->
  </a>
-
 </p>
-
-<!-- <p align="center">
- <a href="https://www.buymeacoffee.com/MoienTajik" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
- </a>
-</p> -->
