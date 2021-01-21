@@ -47,8 +47,8 @@
 
   <span>
     <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
-    <img src="https://img.icons8.com/color/48/000000/express.png" alt="kubernetes" width="43" height="43" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="csharp" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/express.png" alt="kubernetes" width="40" height="40" />
 
   </span>
 </h1>
