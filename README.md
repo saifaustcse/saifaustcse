@@ -10,13 +10,30 @@
  </a> -->
 </p>
 
-<!-- <p align="center"> 
+<!-- <p align="center">
  <strong>
   Professional skills
   </strong>
 </p>
 
-<p align="center"> 
+<p align="center">
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
+
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
+
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+</p> -->
+
+<h1> 
+ <strong>
+  Frontend skills
+  </strong>
+
+  <span align="center">
   <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
   <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
   
@@ -26,12 +43,13 @@
   <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
   <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
-</p> -->
+  </span>
 
+</h1>
 
 <p> 
  <strong>
-  Professional skills
+  Backend skills
   </strong>
 
   <span align="center">
@@ -48,8 +66,8 @@
 
 </p>
 
-
  <!-- -   📃 I blog here: https://moien.dev -->
+
 -   💬 Ask me about: javascript, ReactJs, Angular, Express, NodeJs, .NET(C#), Mongo, MSSQL, MySql ,clean-architecture, micro-services,
 -   👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
 <!-- -   👾 Follow my programming channel on Telegram with +50K subscribers: [@ProgrammingTip](https://t.me/ProgrammingTip) -->
