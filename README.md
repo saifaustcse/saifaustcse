@@ -29,39 +29,38 @@
 </p> -->
 
 <h1> 
-  <strong>
-  Frontend skills :
-  </strong>
-
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
-  
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
- 
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
-</h1>
-
-<p> 
- <strong>
-  Backend skills
-  </strong>
-
-  <span align="center">
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
-  
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
- 
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+  <span>
+    Frontend skills :
   </span>
 
-</p>
+  <span>
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+  </span>
+</h1>
+
+<h1> 
+  <span>
+    Backend skills :  
+  </span>
+
+  <span>
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+  </span>
+</h1>
+
+
 
  <!-- -   📃 I blog here: https://moien.dev -->
 
