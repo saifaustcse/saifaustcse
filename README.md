@@ -29,11 +29,10 @@
 </p> -->
 
 <h1> 
- <strong>
-  Frontend skills
+  <strong>
+  Frontend skills :
   </strong>
 
-  <span align="center">
   <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
   <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
   
@@ -43,8 +42,6 @@
   <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
   <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
-  </span>
-
 </h1>
 
 <p> 
