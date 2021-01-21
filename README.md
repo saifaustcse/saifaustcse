@@ -36,10 +36,6 @@
   <span>
     <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
     <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
     <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
   </span>
 </h1>
@@ -50,17 +46,23 @@
   </span>
 
   <span>
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
     <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotnet" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="kubernetes" width="43" height="43" />
+
   </span>
 </h1>
 
+<h1> 
+  <span>
+    DevOps skills :  
+  </span>
 
+  <span>
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
+  </span>
+</h1>
 
  <!-- -   📃 I blog here: https://moien.dev -->
 
