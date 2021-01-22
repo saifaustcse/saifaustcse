@@ -1,7 +1,4 @@
-<h1 align="center">Hi there, I'm Saiful Islam 
-  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
- </a>
+<h1 align="center">Hi there, I'm Saiful Islam 👋
 </h1>
 
 <p align="center">
@@ -9,8 +6,8 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
 
-  <a href="https://twitter.com/saif-aust-cse" target="_blank">
-  <img src="https://github.com/saifaustcse/saif/blob/main/images/glassdoor.png" />
+  <a href="https://twitter.com/saif-aust-cse" target="_blank" >
+  <img src="https://github.com/saifaustcse/saif/blob/main/images/glassdoor.png"  alt="node" width="40" height="40"/>
  </a>
 
  <!-- <a href="https://twitter.com/saif-aust-cse" target="_blank">
