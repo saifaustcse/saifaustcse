@@ -31,9 +31,9 @@
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotNet" width="40" height="40" /> -->
 <img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" raw=true alt="node" width="40" height="40" style="background-color: #333;"/>
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
+<img src="https://github.com/saifaustcse/saif/blob/main/images/mongodb_2.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mssql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mysql.svg" alt="mongodb" width="40" height="40" />
-<!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/express.png" alt="express" width="40" height="40" /> -->
 <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
 <!-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" /> -->
 
