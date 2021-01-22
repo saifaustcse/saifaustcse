@@ -4,12 +4,12 @@
  </a>
 </h1>
 
-<!-- 
+<!--
 <p align="center">
  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
-  
+
  <a href="https://twitter.com/saif-aust-cse" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
@@ -54,9 +54,9 @@
   <span>
     <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
     <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotNet" width="40" height="40" />
-    <img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" alt="node" width="40" height="40" />
+    <img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" alt="node" width="40" height="40" 
+    style ="background-color: #333;"/>
     <img src="https://github.com/saifaustcse/saif/blob/main/images/express.png" alt="kubernetes" width="40" height="40" />
-
   </span>
 </h1>
 
