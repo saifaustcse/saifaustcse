@@ -1,16 +1,19 @@
 <h1 align="center">Hi there, I'm Saiful Islam 
- <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
 </h1>
 
-<!-- <p align="center">
+<!-- 
+<p align="center">
  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
-
- </a> -->
-
- <!-- <a href="https://twitter.com/saif-aust-cse" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" /> 👋
- </a> -->
-</p>
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+  
+ <a href="https://twitter.com/saif-aust-cse" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+ </a>
+</p> -->
 
 <!-- <p align="center">
  <strong>
@@ -39,6 +42,7 @@
     <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" />
     <img src="https://github.com/saifaustcse/saif/blob/main/images/react.svg" alt="react" width="40" height="40" />
     <img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+
     <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" />
   </span>
 </h1>
