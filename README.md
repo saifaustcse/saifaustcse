@@ -29,11 +29,8 @@
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" /> -->
 <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotNet" width="40" height="40" /> -->
-<img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" raw=true alt="node" width="40" height="40" style="background-color: #333;"/>
-
-<img src="https://github.com/saifaustcse/saif/blob/main/images/node_1.svg" raw=true alt="node" width="40" height="40"/>
+<img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" raw=true alt="node" width="40" height="40"/>
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
-<img src="https://github.com/saifaustcse/saif/blob/main/images/mongodb_2.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mssql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mysql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
