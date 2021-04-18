@@ -38,7 +38,7 @@
 
 </p>
 
--   💬 Ask me about: javascript, ReactJs, Angular, Express, NodeJs, .NET(C#), Mongo, MSSQL, MySql ,clean-architecture, micro-services,
+-   💬 Ask me about: .NET(C#), ReactJs, Angular, Express, NodeJs, JavaScript, Mongo, MSSQL, MySql , Clean Architecture, Micro Services,
 -   👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
 -   📫 How to reach me: saifaustcse26@gmail.com
 -   ![](https://komarev.com/ghpvc/?username=saifaustcse)
