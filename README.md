@@ -38,13 +38,9 @@
 
 <!-- </p> -->
 
-<h3>Skills</h3>
-<p>
-="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
+<!-- ## Programming languages: -->
 
-</p>
-
-## Programming languages:
+## Skills:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd")
@@ -61,8 +57,8 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
-
 ![jest](https://img.shields.io/badge/-jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
 <!-- [C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
