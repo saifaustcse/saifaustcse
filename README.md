@@ -40,13 +40,7 @@
 
 <h3>Skills</h3>
 <p>
-  <img alt="jquery" src="https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js"/>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-
-  <img alt="jest" src="https://img.shields.io/badge/-jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
+="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
 
 </p>
 
@@ -62,7 +56,13 @@
 ![react](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![bootstrap](https://img.shields.io/badge/-bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
+
+![jest](https://img.shields.io/badge/-jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
 <!-- [C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
