@@ -15,28 +15,82 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
  <strong>
   Professional skills
   </strong>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center"> -->
  
-<img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" />
+<!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" /> -->
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" /> -->
-<img src="https://github.com/saifaustcse/saif/blob/main/images/react.svg" alt="react" width="40" height="40" />
-<img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" />
+<!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/react.svg" alt="react" width="40" height="40" />
+<img src="https://github.com/saifaustcse/saif/blob/main/images/angular.svg" alt="angular" width="40" height="40" /> -->
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/typescript.svg" alt="typescript" width="40" height="40" /> -->
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/dot-net.svg" alt="dotNet" width="40" height="40" /> -->
-<img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" raw=true alt="node" width="40" height="40"/>
+<!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/node.svg" raw=true alt="node" width="40" height="40"/>
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mssql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mysql.svg" alt="mongodb" width="40" height="40" />
-<img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" />
+<img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" /> -->
 <!-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" /> -->
 
+<!-- </p> -->
+
+
+<h3>Skills</h3>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react"/>
+  <img alt="jquery" src="https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="redis" src="https://img.shields.io/badge/-redis-CC0000?style=flat-square&logo=redis&logoColor=white" />
+
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />  
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />  
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+ 
+
+  <img alt="jest" src="https://img.shields.io/badge/-jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-git-black?style=flat-square&logo=Git" />
+
 </p>
+
+## Programming languages:
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  
+## FrameWorks:
+
+  ### Css:
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+  ### Js:
+  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  ![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+  ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
+
 
 -   💬 Ask me about: .NET(C#), ReactJs, Angular, Express, NodeJs, JavaScript, Mongo, MSSQL, MySql , Clean Architecture, Micro Services
 -   👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
