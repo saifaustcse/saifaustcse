@@ -1,6 +1,17 @@
 <h1 align="center">Hi there, I'm Saiful Islam 👋
 </h1>
 
+- .NET(C#), MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services
+- ![](https://komarev.com/ghpvc/?username=saifaustcse)
+  </br>
+
+<p align="center">
+ <a href="#" alt="Saiful Islam's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=saifaustcse&theme=tokyonight&show_icons=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" /> -->
+ </a>
+</p>
+
 <p align="center">
  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
   <img src="https://github.com/saifaustcse/saif/blob/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
@@ -56,9 +67,10 @@
 ![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![react](https://img.shields.io/badge/-ReactJS-%23282C34?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -76,9 +88,10 @@
 ![pgSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-## Tools and IDEs
+<!-- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) -->
+
+# Tools and IDEs
 
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -87,7 +100,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Servers, Hosting, SaaS :
+### Servers, Hosting, SaaS :
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -98,9 +111,9 @@
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
 
-- 💬 Ask me about: .NET(C#), ReactJs, Angular, Express, NodeJs, JavaScript, Mongo, MSSQL, MySql , Clean Architecture, Micro Services
-- 👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
-- 📫 How to reach me: saifaustcse26@gmail.com
+## Technologies
+
+- .NET(C#), MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services
 - ![](https://komarev.com/ghpvc/?username=saifaustcse)
   </br>
 
