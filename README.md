@@ -43,20 +43,19 @@
 ## Skills:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![react](https://img.shields.io/badge/-ReactJS-%23282C34?style=for-the-badge&logo=react)
-![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![bootstrap](https://img.shields.io/badge/-bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/-jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
-![jest](https://img.shields.io/badge/-jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
+![bootstrap](https://img.shields.io/badge/-bootstrap-563D7C?style=style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/-jquery-0769AD?style=style=for-the-badge&logo=jquery&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=style=for-the-badge&logo=next.js)
+![jest](https://img.shields.io/badge/-jest-C21325?style=style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=style=for-the-badge&logo=Swagger&logoColor=white)
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd") -->
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
