@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, I'm Saiful Islam 👋
-</h1>
+<h1 align="center">Hi there, I'm Saiful Islam 👋</h1>
 
-- .NET(C#), MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services
+- Areas Of Expertize: .NET(C#), MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services,
+- Areas Of Interest: Project Management, Scrum Master, Agile, Scrumn Kanban
 - ![](https://komarev.com/ghpvc/?username=saifaustcse)
-  </br>
 
 <p align="center">
  <a href="#" alt="Saiful Islam's github stats">
@@ -19,14 +18,7 @@
  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
   <img src="https://github.com/saifaustcse/saif/blob/main/images/glassdoor.svg" alt="linkedin" width="40" height="40"/>
  </a>
-  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
-  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
  </a>
-
- <!-- <a href="https://twitter.com/saif-aust-cse" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
- </a> -->
-
 </p>
 
 <!-- <p align="center">
@@ -36,7 +28,6 @@
 </p> -->
 
 <!-- <p align="center"> -->
-
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/csharp.svg" alt="csharp" width="40" height="40" /> -->
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/javascript.svg" alt="javascript" width="40" height="40" /> -->
 <!-- <img src="https://github.com/saifaustcse/saif/blob/main/images/react.svg" alt="react" width="40" height="40" />
@@ -49,7 +40,6 @@
 <img src="https://github.com/saifaustcse/saif/blob/main/images/mysql.svg" alt="mongodb" width="40" height="40" />
 <img src="https://github.com/saifaustcse/saif/blob/main/images/docker.svg" alt="docker" width="40" height="40" /> -->
 <!-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" /> -->
-
 <!-- </p> -->
 
 ## Languages and Platforms
@@ -110,16 +100,3 @@
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
-
-## Technologies
-
-- .NET(C#), MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services
-- ![](https://komarev.com/ghpvc/?username=saifaustcse)
-  </br>
-
-<p align="center">
- <a href="#" alt="Saiful Islam's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifaustcse&theme=tokyonight&show_icons=true" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifaustcse" /> -->
- </a>
-</p>
