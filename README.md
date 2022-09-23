@@ -43,14 +43,14 @@
 ## Skills:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd")
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![react](https://img.shields.io/badge/-ReactJS-%23282C34?style=flat-square&logo=react)
-![react](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![angular](https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd") -->
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
+![react](https://img.shields.io/badge/-ReactJS-%23282C34?style=for-the-badge&logo=react)
+<!-- ![react](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) -->
+![angular](https://img.shields.io/badge/angular-%23DD0031.svg?for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
