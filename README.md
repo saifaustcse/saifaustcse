@@ -11,7 +11,7 @@
  </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://www.linkedin.com/in/saif-aust-cse/" target="_blank">
   <img src="https://github.com/saifaustcse/saif/blob/main/images/linkedin.svg" alt="linkedin" width="40" height="40" />
  </a>
@@ -19,7 +19,7 @@
   <img src="https://github.com/saifaustcse/saif/blob/main/images/glassdoor.svg" alt="linkedin" width="40" height="40"/>
  </a>
  </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
  <strong>
