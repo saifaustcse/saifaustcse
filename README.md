@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Saiful Islam 👋</h1>
 
-- Areas Of Expertize: .NET(C#) projects, MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services etc.
-- Areas Of Interest: Project Management, Scrum Master, Agile, Scrum, Kanban
+- Areas of Expertize: .NET(C#) projects, MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services etc.
+- Areas of Interest: Project Management, Scrum Master, Agile, Scrum, Kanban
 - ![](https://komarev.com/ghpvc/?username=saifaustcse)
 
 <p align="center">
