@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Saiful Islam 👋</h1>
 
-- Areas Of Expertize: .NET(C#), MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services,
+- Areas Of Expertize: .NET(C#) projects, MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services etc.
 - Areas Of Interest: Project Management, Scrum Master, Agile, Scrum, Kanban
 - ![](https://komarev.com/ghpvc/?username=saifaustcse)
 
@@ -64,10 +64,14 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 <!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
 <!-- ![NextJs](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js) -->
 <!-- ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) -->
+<!-- ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) -->
+<!-- ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) -->
+<!-- ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) -->
 
 ### Databases
 
@@ -92,10 +96,10 @@
 ### Servers, Hosting, SaaS
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+<!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 <!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) -->
 <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
