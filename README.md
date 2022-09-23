@@ -50,10 +50,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/-jquery-0769AD?style=style=for-the-badge&logo=jquery&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-black?style=style=for-the-badge&logo=next.js)
-![jest](https://img.shields.io/badge/-jest-C21325?style=style=for-the-badge&logo=jest&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=style=for-the-badge&logo=Swagger&logoColor=white)
+![jquery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js)
+![jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-%23282C34?style=flat-square&logo=typescript&logoColor=007bcd") -->
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) -->
@@ -83,12 +83,13 @@
 <!-- ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) -->
 <!-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) -->
 
-## OS :
+## Tools :
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)
+![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- ![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git) -->
 
 - 💬 Ask me about: .NET(C#), ReactJs, Angular, Express, NodeJs, JavaScript, Mongo, MSSQL, MySql , Clean Architecture, Micro Services
 - 👯 I’m looking to collaborate on: .NET projects, MERN Stack projects and MEAN Stack projects
