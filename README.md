@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Saiful Islam 👋 </h1> 
 
-Full stack developer | MCSA Certified in C# | dotnet | dotnet core | Nodejs | JavaScript | TypeScript | Expressjs | Reactjs | Angular | MERN | MEAN | MongoDB | MSSQL | Oracle | MySQL | Agile | Scrum | Clean Architecture | Micro Services 
+Senior Software Engineer | MCSA Certified in C# | dotnet | dotnet core | Nodejs | JavaScript | TypeScript | Expressjs | Reactjs | Angular | MERN | MEAN | MongoDB | MSSQL | Oracle | MySQL | Agile | Scrum | Clean Architecture | Micro Services 
 
-- ![](https://komarev.com/ghpvc/?username=saifaustcse)
+<!-- - ![](https://komarev.com/ghpvc/?username=saifaustcse) -->
 
 <p align="center">
  <a href="#" alt="Saiful Islam's github stats">
