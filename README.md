@@ -1,6 +1,20 @@
 <h1 align="center">Hi there, I'm Saiful Islam 👋</h1>
 
+Full stack developer | MCSA Certified in C# | dotnet | dotnet core | Nodejs | JavaScript | TypeScript | Expressjs | Reactjs | Angular | MERN | MEAN | Microservice | MongoDB | MSSQL | Oracle | MySQL | Agile | Scrum
+
 - Areas of Expertize: .NET(C#) projects, MERN Stack projects and MEAN Stack projects, Clean Architecture, Micro Services etc.
+
+
+Skills:
+
+- .NET: C#, ASP.NET Web Form, ASP.NET MVC, Web API, ASP.NET Core, Entity Framework, Crystal report, RDLC report
+- JavaScript: JavaScript, Typescript, Reactjs, Angularjs, Angular, Nodejs, Expressjs, rxjs, redux, kafka, MEAN, MERN
+- Database: MSSQL, MySQL, Oracle, Mongo DB, Redis
+- Web Design: HTML, CSS, Bootstrap
+- DevOps: Git, TFS, AzureDevOps, CI/CD, Docker, Nginx, IIS
+- SOTWARE ARCHITECTURE: OOP, SOLID, Design Patterns, N-tier Architecture, Client-Server and Micro Service Architecture
+- PROJECT MANAGEMENT: SDLC Methodologies, Agile, Scrum, KanBan, Scrum Master, Jira, Confluence documentation
+
 - Areas of Interest: Project Management, Scrum Master, Agile, Scrum, Kanban
 - ![](https://komarev.com/ghpvc/?username=saifaustcse)
 
