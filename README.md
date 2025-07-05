@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Saiful Islam 👋 </h1> 
 
-Senior Software Engineer | MCSA Certified in C# | dotnet | dotnet core | Nodejs | JavaScript | TypeScript | Expressjs | Reactjs | Angular | MongoDB | MSSQL | Oracle | MySQL | Clean Architecture | Micro Services | Agile | Scrum
+Senior Software Engineer | MCSA: Programming in C# | Red Hat Certified System Administrator (RHCSA) | .NET, .NET Core, Node.js | JavaScript, TypeScript, Angular, React | MongoDB, MSSQL, Oracle | Agile, Scrum
 
 <!-- - ![](https://komarev.com/ghpvc/?username=saifaustcse) -->
 
